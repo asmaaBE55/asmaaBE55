@@ -23,7 +23,7 @@ My journey: **Java Backend Developer → Application Specialist → Technical So
 - 🌱 Currently learning **Azure, .NET, C#** and cloud-native development
 - 🎯 Goal: Join **Microsoft** as a Backend/Cloud Engineer
 - 💬 Ask me about **Java, PL/SQL, M-Files, BPM workflow design, REST APIs**
-- 🌍 Languages: Italian 🇮🇹 | English 🇬🇧 | French 🇫🇷 | Arabic 🇩🇿
+- 🌍 Languages: Italian 🇮🇹 | English 🇬🇧 | French 🇫🇷 | Arabic 🇹🇳
 
 ---
 
