@@ -2,7 +2,7 @@
 
 # Hi, I'm Asmaa Belhadj 👋
 
-### Technical Solutions Consultant | Java Backend Engineer | ECM & BPM Specialist
+### Technical Solutions Consultant | Java Backend Engineer | Web Developer | ECM & BPM Specialist
 
 *Milano, Italia 🇮🇹*
 
